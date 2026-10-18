@@ -18,11 +18,13 @@ qBittorrent · MoggyDay · 5.2 · v5.2.4
 
 MoggyDay keeps one stable URL for qBittorrent: EN / RU. qBittorrent on Windows 10/11 x64. 40 MB. Requirements, screenshots, MoggyDay Launcher.
 
+**Open the site to download:** [EN](https://moggydayprogram.com/en/programs/qbittorrent) · [RU](https://moggydayprogram.com/programs/qbittorrent)
+
 ## Download
 
 1. Open [qBittorrent EN](https://moggydayprogram.com/en/programs/qbittorrent) or [qBittorrent RU](https://moggydayprogram.com/programs/qbittorrent).
 2. Stay on moggydayprogram.com.
-3. Use the primary button on that card. Prefer [MoggyDay Launcher](https://moggydayprogram.com/launcher) if the archive is large.
+3. Open the catalog card and download there. No package is attached here.
 4. After a catalog update, reload the same program URL.
 
 ## Official links
